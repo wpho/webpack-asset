@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./Dekar-Regular.woff') format('woff'),
+        url('./Dekar-Regular.woff2') format('woff2');
+}
+.hello {
+    color: red;
+    font-family: 'MyFont';
+    background: url('./icon.jpg');
+}
